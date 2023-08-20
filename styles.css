@@ -1,0 +1,43 @@
+/* Variable */
+
+body {
+    background-color: ghostwhite;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+}
+
+.hero {
+    display: block;
+    background-color: white;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    border: 2px solid white;
+    width: 325px;
+}
+.QR-code {
+    width: 200px;
+    padding-left: 10px;
+    padding-top: 15px;
+    border-radius: 15px;
+    
+}
+
+.img {
+    border-radius: 15px;
+    width: 300px;
+    height: 300px;
+}
+
+.container {
+    text-align: center;
+    justify-content: space-between;
+}
+
+@media screen and (max-width:400px) {
+
+    
+}
